@@ -7,8 +7,8 @@ Minecraft: Pi Edition <br>
 # Setup
 Minecraft Java Edition: <br>
 0. Install NeoForge if not already installed <Br>
-1. Navigate to the minecraft folder <Br>
-2. Download the newest JAR and put it in <minecraft>/mods <br>
+1. Navigate to the Minecraft folder <Br>
+2. Download the newest JAR and put it in {minecraft}/mods <br>
 Press V to open the menu <br>
 <br>
 Minecraft Bedrock Edition: <br>
