@@ -12,7 +12,7 @@ Minecraft Java Edition: <br>
 Press V to open the menu <br>
 <br>
 Minecraft Bedrock Edition: <br>
-0. Enable GameTest on your world if not already on <Br>
+0. Enable GameTest in your world if not already on <Br>
 1. Download the newest MCADDON <br>
 2. Double-click the MCADDON <br>
 Crouch while holding a stick to open the menu <br>
